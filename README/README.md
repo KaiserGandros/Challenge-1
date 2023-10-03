@@ -1,6 +1,12 @@
+# Horiseon Introduction
+
+-Horiseon is a online marketing company that specializes in social media and search engine optimization. Using a cost effective and manageable approach to build up your brand awareness in order for you to aquire the target audience you are looking for.
+
+![](/Develop/assets/images/Horiseon.png?raw=true"Horiseon")
+
 # Horiseon Refactory code 
 
--This is an update to the horiseon website to make it more accessible and easier to read
+-This is an update to the horiseon website to make it more accessible and easier to read as well as adjusting spacing and text in the website.
 
 -This refactor includes HTML and CSS changes
 
